@@ -88,8 +88,8 @@ To deploy the application, push your code to a Git repository (e.g., GitHub), an
 5. Create a pull request.
 
 ## License
+Copyright (c) 2024 Athul Nair M[https://athulnair.netlify.app/]
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

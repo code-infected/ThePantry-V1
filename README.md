@@ -1,6 +1,6 @@
 # Pantry Tracker Application
 
-Welcome to the Pantry Tracker Application! This application helps users manage their pantry items efficiently, allowing them to add, edit, delete, and search for items. The application uses Firebase for backend services, React for the frontend, and Next.js for server-side rendering and static site generation.
+This application helps users manage their pantry items efficiently, allowing them to add, edit, delete, and search for items. The application uses Firebase for backend services, React for the frontend, and Next.js for server-side rendering and static site generation.
 
 ## Features
 
@@ -31,7 +31,7 @@ Welcome to the Pantry Tracker Application! This application helps users manage t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pantry-tracker.git
+   git clone https://github.com/code-infected/ThePantry-V1.git
    cd pantry-tracker
    ```
 
